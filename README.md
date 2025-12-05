@@ -1,1 +1,1 @@
-# ci-cd-homework
+# ci/cd-homework
